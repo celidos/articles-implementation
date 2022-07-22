@@ -6,6 +6,6 @@ Novikov, Georgii and Bershatsky, Daniel and Gusak, Julia and Shonenkov, Alex and
 
 In this notebook you can find calculation of optimal piecewise-constant approximation, and how to fine-tune result with gradient descent.
 
-![This is an image](./discrete-gradient/image1.png)
+![image](/discrete-gradient/image1.png)
 
 Keywords: Python, quantized gradients, piecewise constant approximation, numpy, scipy, simple code, example
