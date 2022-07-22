@@ -1,4 +1,4 @@
-This notebook contains custom implementation of basic ideas in the article 
+This notebook contains custom implementation of basic ideas from the article 
 
 Novikov, Georgii and Bershatsky, Daniel and Gusak, Julia and Shonenkov, Alex and Dimitrov, Denis and Oseledets, Ivan
 
